@@ -1,0 +1,17 @@
+{
+  "name": "playwright-dojo-5",
+  "version": "1.0.0",
+  "scripts": {},
+  "keywords": [],
+  "author": "Serhii Revutskyi",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.14",
+    "nmp-test-new": "^1.0.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
